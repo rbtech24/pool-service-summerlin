@@ -16,3 +16,14 @@ Static local SEO site for **Summerlin, NV**.
 
 ## Design theme
 `summerlin` — fonts and mobile app bar are exclusive to this brand.
+
+## Deploy (Vercel)
+
+Static site. Framework: **Other**, no build. Phone CTAs use `tel:` links — no form backend required.
+
+
+## SEO
+
+- `robots.txt` + `sitemap.xml` at site root
+- Canonical, Open Graph, Twitter cards, and JSON-LD on every page
+- Blog posts use `BlogPosting` schema; services use `Service` + business schema
