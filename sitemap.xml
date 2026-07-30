@@ -2,212 +2,538 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.poolservice-summerlin.com/about</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/downtown-summerlin</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/mesa-ridge</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/red-rock-country-club</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/siena</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/summerlin-centre</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/sun-city-summerlin</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/the-arbors</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/the-canyons</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/the-cliffs</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/the-crossing</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/the-gardens</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/the-hills</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/the-paseos</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/the-pueblo</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/the-ridges</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/the-trails</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/the-vistas</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/the-willows</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/tournament-hills</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/areas/west-summerlin</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/blog</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-summerlin.com/blog/posts/choosing-variable-speed-runtime</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/acid-wash-myths-summerlin-83</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-summerlin.com/blog/posts/event-ready-pool-timeline</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/acid-wash-myths-sun-city-summerlin</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-summerlin.com/blog/posts/hard-water-scale-red-rock</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/autofill-stuck-summerlin-86</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-summerlin.com/blog/posts/infinity-edge-care-summerlin</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/autofill-stuck-the-vistas</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-summerlin.com/blog/posts/quiet-service-hoa-summerlin</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/automation-basics-summerlin-19</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-summerlin.com/blog/posts/spa-and-pool-split-chemistry</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/automation-basics-the-pueblo</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-summerlin.com/blog/posts/summerlin-pool-service-expectations</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/basket-discipline-summerlin-41</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.poolservice-summerlin.com/blog/posts/vacation-home-pool-summerlin</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/basket-discipline-summerlin-91</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/black-algae-summerlin-62</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/black-algae-the-crossing</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/calcium-scale-summerlin-65</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/calcium-scale-summerlin-centre</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/choose-company-mesa-ridge</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/choose-company-summerlin-80</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/clarifier-trap-summerlin-44</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/clarifier-trap-summerlin-94</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/combined-chlorine-mesa-ridge</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/combined-chlorine-summerlin-40</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/cover-care-summerlin-98</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/cover-care-the-arbors</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/cya-too-high-red-rock-country-club</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/cya-too-high-summerlin-13</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/de-vs-cartridge-summerlin-92</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/de-vs-cartridge-the-ridges</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/dust-storm-checklist-summerlin-02</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/dust-storm-checklist-summerlin-52</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/energy-bills-summerlin-49</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/energy-bills-tournament-hills</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/fall-adjust-summerlin-29</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/fall-adjust-summerlin-79</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/filter-psi-guide-downtown-summerlin</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/filter-psi-guide-summerlin-04</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/green-to-clear-timeline-summerlin-05</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/green-to-clear-timeline-summerlin-55</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/heater-not-firing-summerlin-68</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/heater-not-firing-the-willows</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/hoa-gate-codes-summerlin-08</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/hoa-gate-codes-summerlin-58</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/july-chlorine-loss-summerlin-01</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/july-chlorine-loss-the-gardens</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/kids-safe-clarity-summerlin-23</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/kids-safe-clarity-summerlin-73</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/landscaper-debris-summerlin-25</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/landscaper-debris-summerlin-centre</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/leak-signs-summerlin-35</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/leak-signs-summerlin-85</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/liquid-vs-tabs-summerlin-46</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/liquid-vs-tabs-the-vistas</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/metal-stains-summerlin-47</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/metal-stains-summerlin-97</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/monsoon-week-summerlin-26</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/monsoon-week-summerlin-76</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/mustard-algae-summerlin-11</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/mustard-algae-summerlin-61</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/neighborhood-focus-mesa-ridge-summerlin</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/neighborhood-focus-the-cliffs-summerlin</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/new-build-startup-summerlin-38</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/new-build-startup-summerlin-88</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/opening-neglected-summerlin-71</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/opening-neglected-west-summerlin</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/party-prep-summerlin-22</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/party-prep-the-crossing</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/pet-friendly-summerlin-74</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/pet-friendly-the-trails</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/ph-drift-heat-summerlin-14</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/ph-drift-heat-summerlin-64</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/phosphates-summerlin-89</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/phosphates-tournament-hills</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/photo-notes-summerlin-32</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/photo-notes-summerlin-82</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/pump-noise-summerlin-17</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/pump-noise-summerlin-67</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/robot-cleaner-summerlin-20</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/robot-cleaner-summerlin-70</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/route-day-summerlin-31</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/route-day-west-summerlin</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/salt-cell-cleaning-red-rock-country-club</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/salt-cell-cleaning-summerlin-53</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/salt-vs-chlorine-summerlin-37</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/salt-vs-chlorine-the-paseos</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/sand-filter-summerlin-43</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/sand-filter-sun-city-summerlin</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/shock-timing-summerlin-95</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/shock-timing-the-hills</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/spa-vs-pool-chemistry-siena</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/spa-vs-pool-chemistry-summerlin-56</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/spring-startup-summerlin-28</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/spring-startup-the-willows</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/str-guest-load-summerlin-10</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/str-guest-load-the-cliffs</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/tile-cleaning-summerlin-34</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/tile-cleaning-the-trails</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/vacation-home-protocol-summerlin-59</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/vacation-home-protocol-the-pueblo</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/variable-speed-runtime-siena</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/variable-speed-runtime-summerlin-16</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/weekly-vs-biweekly-summerlin-07</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/weekly-vs-biweekly-the-canyons</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/winter-still-weekly-summerlin-77</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.poolservice-summerlin.com/blog/posts/winter-still-weekly-the-paseos</loc>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/contact</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/faq</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/</loc>
-    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/pricing</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/service-areas</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/services/equipment-diagnostics</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/services/green-to-clear</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/services/infinity-edge-care</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/services/salt-system-care</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/services/seasonal-detailing</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/services/weekly-estate-service</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.poolservice-summerlin.com/services</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
