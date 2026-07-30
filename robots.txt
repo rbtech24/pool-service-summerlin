@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://poolservice-summerlin.com/sitemap.xml
+Sitemap: https://www.poolservice-summerlin.com/sitemap.xml
