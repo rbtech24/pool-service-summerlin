@@ -478,7 +478,7 @@ textarea { min-height: 140px; resize: vertical; }
 .prose li a { font-weight: 600; }
 .prose .lede-graph { font-size: 1.08rem; color: var(--text); }
 
-/* ===== HEADER / LOGO — no extra vertical padding; bar hugs logo ===== */
+/* ===== HEADER / LOGO â€” no extra vertical padding; bar hugs logo ===== */
 :root { --logo-h: 112px; --logo-h-mobile: 96px; }
 .site-header {
   position: sticky;
@@ -624,7 +624,7 @@ textarea { min-height: 140px; resize: vertical; }
   .footer-brand img { height: 140px !important; }
 }
 
-/* Pure white chrome — matches logo #FFFFFF background */
+/* Pure white chrome â€” matches logo #FFFFFF background */
 .topbar {
   background: #ffffff !important;
   color: #4a5d78 !important;
